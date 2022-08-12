@@ -1,0 +1,15 @@
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\bin\Debug\net6.0\Easy.exe
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\bin\Debug\net6.0\Easy.deps.json
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\bin\Debug\net6.0\Easy.runtimeconfig.json
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\bin\Debug\net6.0\Easy.dll
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\bin\Debug\net6.0\Easy.pdb
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.csproj.AssemblyReference.cache
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.AssemblyInfoInputs.cache
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.AssemblyInfo.cs
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.csproj.CoreCompileInputs.cache
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.dll
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\refint\Easy.dll
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.pdb
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\Easy.genruntimeconfig.cache
+C:\Users\berks_9484iah\Desktop\patika.dev\c#-projects\Easy\obj\Debug\net6.0\ref\Easy.dll
